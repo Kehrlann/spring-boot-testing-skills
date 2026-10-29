@@ -2,6 +2,8 @@
 
 Agent skills for testing Spring Boot apps (Spring Boot 4 / Spring Framework 7), distilled from the book *Spring Boot Testing In Action* and its samples.
 
+📚 [Book source](https://github.com/Kehrlann/spring-boot-testing-book/)
+
 | Skill | Use it for |
 |---|---|
 | [`spring-testing-strategy`](skills/spring-testing-strategy/SKILL.md) | Choosing the kind of test: unit, `@SpringBootTest`, slice, Modulith module test, `SpringApplicationBuilder`, browser |
